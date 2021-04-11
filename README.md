@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-laerciorios-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laerciorios/)](https://www.linkedin.com/in/laerciorios/)
 
 
-- Desenvolvedor Back-End na Distribuidora Farmacêutica Golfarma.
+- Desenvolvedor de Software na Geodatin.
 - Graduando em Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS).
 - Técnico em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial (SENAI).
 ### :man_technologist: Minhas Estatísticas:
