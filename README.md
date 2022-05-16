@@ -28,7 +28,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/laerciorios/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:laercio.rios13@hotmail.com"><img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="mailto:contact@laerciorios.com"><img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.hackerrank.com/LaercioRios"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
   <a href="https://leetcode.com/LaercioRios/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FLaercioRios&logo=leetcode&logoColor=yellow" target="_blank"></a>
   <a href="https://www.goodreads.com/user/show/62824643-laercio-rios"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" target="_blank"></a>
