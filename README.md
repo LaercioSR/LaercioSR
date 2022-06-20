@@ -1,18 +1,19 @@
-## Olá!!! Eu sou Laercio Rios
+## Hello!!! I'm Laercio Rios
 
+- 🧙‍♂️ Back-End Developer at [Geodatin](https://geodatin.com/).
+- 📜 Graduating in Computer Engineering from the [State University of Feira de Santana (UEFS)](https://www.uefs.br/).
+- ✒️ Systems Development Technician by the [National Service for Industrial Learning (SENAI)](https://www.senaibahia.com.br/).
 
-- 🧙‍♂️ Desenvolvedor Back-End.
-- 📜 Graduando em Engenharia de Computação pela Universidade Estadual de Feira de Santana (UEFS).
-- ✒️ Técnico em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial (SENAI).
+### My Statistics
 
-###  Minhas Estatísticas:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laerciosr&count_private=true&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laerciosr&layout=compact&count_private=true&show_icons=true&theme=dracula" />
 </div>
 
 ##
-### Minhas Tecnologias:
+
+### My Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
@@ -24,7 +25,8 @@
 </div>
 
 ##
-### Minhas Redes Sociais:
+
+### My Social Media
 
 <div>
   <a href="https://www.linkedin.com/in/laerciorios/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
