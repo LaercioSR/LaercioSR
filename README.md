@@ -1,7 +1,7 @@
 ## Hello!!! I'm Laercio Rios
 
-- 🧙‍♂️ Back-End Developer at [Geodatin](https://geodatin.com/).
-- 📜 Graduating in Computer Engineering from the [State University of Feira de Santana (UEFS)](https://www.uefs.br/).
+- 🧙‍♂️ Full Stack Developer at [Geodatin](https://geodatin.com/).
+- 📜 Graduating in Computer Science from the [Universidade Salvador (UNIFACS)](https://www.unifacs.br/).
 - ✒️ Systems Development Technician by the [National Service for Industrial Learning (SENAI)](https://www.senaibahia.com.br/).
 
 ### My Statistics
