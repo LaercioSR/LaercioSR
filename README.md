@@ -1,5 +1,9 @@
 ## Hello!!! I'm Laercio Rios
 
+<img align="right" 
+  src="./assets/mimikyu.gif"
+  width="30%"/>
+
 - 🧙‍♂️ Full Stack Developer at [Geodatin](https://geodatin.com/).
 - 📜 Graduating in Computer Science from the [Universidade Salvador (UNIFACS)](https://www.unifacs.br/).
 - ✒️ Systems Development Technician by the [National Service for Industrial Learning (SENAI)](https://www.senaibahia.com.br/).
