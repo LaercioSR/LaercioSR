@@ -22,10 +22,10 @@
 
 ### Experiences
 
-[<img align="left" height="96px" width="96px" alt="Geodatin" src="./assets/geodatin.svg"/>](https://geodatin.com.br/)
+[<img align="left" height="96px" width="96px" alt="Geodatin" src="./assets/geodatin.svg"/>](https://geodatin.com/)
 
 **Fullstack Engineer** \
-[**Geodatin**](https://geodatin.com.br/) • Contract • 02/2021 - Present \
+[**Geodatin**](https://geodatin.com/) • Contract • 02/2021 - Present \
 Stacks: `TypeScript`, `Node`, `React`, `PostgreSQL`\
 Featured Projects: [Rhisa](https://dev.rhisa.org/api/docs/)
 <br/>
