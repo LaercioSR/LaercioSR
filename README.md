@@ -22,7 +22,7 @@
 
 ### Experiences
 
-[<img align="left" height="80px" width="96px" alt="Geodatin" src="./assets/geodatin.svg"/>](https://geodatin.com.br/)
+[<img align="left" height="96px" width="96px" alt="Geodatin" src="./assets/geodatin.svg"/>](https://geodatin.com.br/)
 
 **Fullstack Engineer** \
 [**Geodatin**](https://geodatin.com.br/) • Contract • 02/2021 - Present \
@@ -30,7 +30,7 @@ Stacks: `TypeScript`, `Node`, `React`, `PostgreSQL`\
 Featured Projects: [Rhisa](https://dev.rhisa.org/api/docs/)
 <br/>
 
-[<img align="left" height="80px" width="96px" alt="Golfarma" src="./assets/golfarma.svg"/>](https://golfarma.com.br/)
+[<img align="left" height="96px" width="96px" alt="Golfarma" src="./assets/golfarma.svg"/>](https://golfarma.com.br/)
 
 **Back-End Developer (Intern)** \
 [**Golfarma**](https://golfarma.com.br/) • Contract • 01/2020 - 02/2021\
